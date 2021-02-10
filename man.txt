@@ -1,1 +1,1 @@
-hello from Man 
+added one more string to hello
